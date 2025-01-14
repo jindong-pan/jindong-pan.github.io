@@ -2,3 +2,6 @@
 ## Tools & reference:
 * [Markdown manual](./mdCheat.md)
 ## Studies of Chinese Ancient Civilization
+* 论语
+* 易经
+* 道德经
