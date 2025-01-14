@@ -7,19 +7,14 @@
 * 道德经
 ## STEPHEN MINISTER ![image](https://github.com/user-attachments/assets/5765677a-4366-4da3-8581-45617758be43)
 * Logo: Broken -> + -> Whole
-<details>
-  <summary>Click me</summary>
+<details open>
+  <summary>CC-AWOL</summary>
   
-  ### Heading
-  1. Foo
-  2. Bar
+  ### CHRISTIAN CAREGIVING A WAY OF LIFE - KENNETH C. HAUGK
+  * PREFACE
+     - Pain and suffering are a fact of life.
+        + physically, emotionally, relationally, or spiritually
+        + The distinctiveneess of the care we can offer as Christians goes unidentified and unexpressed.
      * Baz
      * Qux
-
-  ### Some Javascript
-  ```js
-  function logSomething(something) {
-    console.log('Something', something);
-  }
-  ```
 </details>
