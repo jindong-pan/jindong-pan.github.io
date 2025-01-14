@@ -21,7 +21,11 @@
   * PREFACE
      - Pain and suffering are a fact of life.
         + physically, emotionally, relationally, or spiritually
-        + The _distinctiveness_ of the care we can offer as Christians goes _unidentified_ and _unexpressed_.
-     * Baz
-     * Qux
+        + The <ins>distinctiveness</ins> of the care we can offer as Christians goes <ins>unidentified</ins> and <ins>unexpressed</ins>.
+     - CC-AWOL has a twofold purpose:
+        + to define, describe, and elevate distinctively Christian caring, and
+        + to explain how such caring can become a way of life for followers of Christ.
+     - The Christian perspective behind the book (a grassroots faith)
+     - Christian caregivers need to empowered and affirmed, but not at the expense of the valuable contributions of psychology and the other arts and sciences.
+     - 
 </details>
