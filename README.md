@@ -1,7 +1,10 @@
 # James 3:17-18. This wisdom is described as first being pure, then peace-loving, considerate, submissive, full of mercy and good fruit, impartial, and sincere. Peacemakers who sow in peace are said to reap a harvest of righteousness.
 ## Tools & reference:
 * [Markdown manual](./mdCheat.md)
-## Studies of Chinese Ancient Civilization
+
+<details >
+  <summary>## Studies of Chinese Ancient Civilization</summary>
+</details>
 * 论语
 * 易经
 * 道德经
@@ -14,7 +17,7 @@
   * PREFACE
      - Pain and suffering are a fact of life.
         + physically, emotionally, relationally, or spiritually
-        + The distinctiveneess of the care we can offer as Christians goes unidentified and unexpressed.
+        + The distinctiveness of the care we can offer as Christians goes unidentified and unexpressed.
      * Baz
      * Qux
 </details>
