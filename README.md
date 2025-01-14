@@ -3,7 +3,7 @@
 * [Markdown manual](./mdCheat.md)
 
 ## Studies of Chinese Ancient Civilization
-<details >
+<details open>
   <summary>expand</summary>
 
   ### 国学
@@ -14,7 +14,7 @@
 
 ## STEPHEN MINISTER ![image](https://github.com/user-attachments/assets/5765677a-4366-4da3-8581-45617758be43)
 * Logo: Broken -> + -> Whole
-<details open>
+<details>
   <summary>CC-AWOL</summary>
   
   ### CHRISTIAN CAREGIVING A WAY OF LIFE - KENNETH C. HAUGK
@@ -23,9 +23,10 @@
         + physically, emotionally, relationally, or spiritually
         + The <ins>distinctiveness</ins> of the care we can offer as Christians goes <ins>unidentified</ins> and <ins>unexpressed</ins>.
      - CC-AWOL has a twofold purpose:
-        + to define, describe, and elevate distinctively Christian caring, and
-        + to explain how such caring can become a way of life for followers of Christ.
-     - The Christian perspective behind the book (a grassroots faith)
-     - Christian caregivers need to empowered and affirmed, but not at the expense of the valuable contributions of psychology and the other arts and sciences.
+        + to define, describe, and elevate <ins>distinctively Christian caring</ins>, and
+        + to explain how <ins>such caring</ins> can become <ins>a way of life</ins> for followers of Christ.
+     - The Christian <ins>perspective</ins> behind the book (a <ins>grassroots faith</ins>)
+     - Christian caregivers need to empowered and affirmed, but <ins>not at the expense of</ins> the valuable contributions of psychology and the other arts and sciences.
+  * CH 1 GOD AS THE CUREGIVER
      - 
 </details>
