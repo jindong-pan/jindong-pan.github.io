@@ -21,7 +21,7 @@
   * PREFACE
      - Pain and suffering are a fact of life.
         + physically, emotionally, relationally, or spiritually
-        + The distinctiveness of the care we can offer as Christians goes unidentified and unexpressed.
+        + The _distinctiveness_ of the care we can offer as Christians goes _unidentified_ and _unexpressed_.
      * Baz
      * Qux
 </details>
