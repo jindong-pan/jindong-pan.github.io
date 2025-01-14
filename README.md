@@ -2,12 +2,14 @@
 ## Tools & reference:
 * [Markdown manual](./mdCheat.md)
 
+## Studies of Chinese Ancient Civilization
 <details >
-  <summary>## Studies of Chinese Ancient Civilization</summary>
-</details>
+  <summary>expand</summary>
 * 论语
 * 易经
-* 道德经
+* 道德经  
+</details>
+
 ## STEPHEN MINISTER ![image](https://github.com/user-attachments/assets/5765677a-4366-4da3-8581-45617758be43)
 * Logo: Broken -> + -> Whole
 <details open>
