@@ -48,7 +48,20 @@
         <ul>
            <li>you are freed from false expectaions</li>
            <li>being fully present, communicating <ins>acceptance</ins> and <ins>love</ins>, and helping the one receiving care <ins>explore their thoughts and feelings</ins></li>
+           <li>?God -> two pitfalls:</li>
+              <ul>
+                 <li>pressuring the other person to grow or change</li>
+                 <li>responsible for the success</li>
+              </ul>
+        </ul>
+      <li>>FREEDOM FOR THE CARE RECEIVER</li>
+        <ul>
+          <li>w/o unrealistic expectations</li>
+          <li>focus on love and care</li>
+          <li>at a pace suited to the individual</li>
+          <li>invest in the process by expressing feelings, sharing openly, being honest, and accepting care</li>
         </ul>
     </ul>
+   <li>CH 2 GOD'S CONsTANT PRESENCE</li>   
   </ul>
 </details>
