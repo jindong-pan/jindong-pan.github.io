@@ -62,6 +62,11 @@
           <li>invest in the process by expressing feelings, sharing openly, being honest, and accepting care</li>
         </ul>
     </ul>
-   <li>CH 2 GOD'S CONSTANT PRESENCE</li>   
+   <li>CH 2 GOD'S CONSTANT PRESENCE</li>
+    <ul>
+      <li>you're never alone</li>
+      <li>Thress ways:</li>
+      
+    </ul>
   </ul>
 </details>
