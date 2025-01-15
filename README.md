@@ -6,10 +6,13 @@
 <details open>
   <summary>expand</summary>
 
-  ### 国学
-  * 论语
-  * 易经
-  * 道德经  
+  <h3>国学</h3>
+  <ul>
+    <li>论语</li>
+    <li>易经</li>
+    <li>道德经</li>
+  </ul>
+  
 </details>
 
 ## STEPHEN MINISTER ![image](https://github.com/user-attachments/assets/5765677a-4366-4da3-8581-45617758be43)
