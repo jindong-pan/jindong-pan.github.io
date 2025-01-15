@@ -54,7 +54,7 @@
                  <li>responsible for the success</li>
               </ul>
         </ul>
-      <li>>FREEDOM FOR THE CARE RECEIVER</li>
+      <li>FREEDOM FOR THE CARE RECEIVER</li>
         <ul>
           <li>w/o unrealistic expectations</li>
           <li>focus on love and care</li>
