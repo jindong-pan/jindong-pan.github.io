@@ -1,6 +1,12 @@
 # James 3:17-18. This wisdom is described as first being pure, then peace-loving, considerate, submissive, full of mercy and good fruit, impartial, and sincere. Peacemakers who sow in peace are said to reap a harvest of righteousness.
 ## Tools & reference:
 * [Markdown manual](./mdCheat.md)
+* [创世纪图书馆](https://librarygenesis.net/)
+* [格式转换工具](https://convertio.co/)
+* [z library](https://z-library.sk/)
+* [安娜的档案](https://zh.annas-archive.org/)
+* [pdf drive](https://www.pdfdrive.com/)
+* [书阁-古书](https://www.shuge.org/)
 
 ## Studies of Chinese Ancient Civilization
 <details>
