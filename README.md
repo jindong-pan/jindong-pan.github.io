@@ -7,6 +7,7 @@
 * [安娜的档案](https://zh.annas-archive.org/)
 * [pdf drive](https://www.pdfdrive.com/)
 * [书阁-古书](https://www.shuge.org/)
+* [my links](./bookmarks.html)
 
 ## Studies of Chinese Ancient Civilization
 <details>
