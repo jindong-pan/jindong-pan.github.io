@@ -1,5 +1,7 @@
 # James 3:17-18. This wisdom is described as first being pure, then peace-loving, considerate, submissive, full of mercy and good fruit, impartial, and sincere. Peacemakers who sow in peace are said to reap a harvest of righteousness.
+## WA maps
 ![image](https://github.com/user-attachments/assets/37d49978-cc3d-4b8f-9275-64a729eb2f63)
+![image](https://github.com/user-attachments/assets/f8e525aa-0de9-4746-a149-9ceaa15592d1)
 
 ## Tools & reference:
 * [Markdown manual](./mdCheat.md)
