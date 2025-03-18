@@ -14,6 +14,7 @@
 * [安娜的档案](https://zh.annas-archive.org/)
 * [pdf drive](https://www.pdfdrive.com/)
 * [书阁-古书](https://www.shuge.org/)
+* [libary printing](https://kcls.org/print-from-your-own-device/):select correct pickup library(Highport Way?)
 * [my links](./bookmarks.html)
 
 ## Studies of Chinese Ancient Civilization
