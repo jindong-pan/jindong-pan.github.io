@@ -15,6 +15,7 @@
 * [pdf drive](https://www.pdfdrive.com/)
 * [书阁-古书](https://www.shuge.org/)
 * [libary printing](https://kcls.org/print-from-your-own-device/):select correct pickup library(Highport Way?)
+* [find mygphone](https://www.google.com/android/find/)
 * [my links](./bookmarks.html)
 
 ## Studies of Chinese Ancient Civilization
