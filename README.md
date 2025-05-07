@@ -18,6 +18,21 @@
 * [find mygphone](https://www.google.com/android/find/)
 * [tax return filing](https://www.freetaxusa.com/taxes2024/taxcontrol?sid=6&FREEFILE)
 * [cdwa timeentry](https://www.consumerdirectwa.com/)
+* 真相查询类
+  - [Snopes](https://www.snopes.com)
+  - [Wikipedia en](https://en.wikipedia.org)
+* 全球时事类
+  - [Foreign Affairs](https://www.foreignaffairs.com)
+  - [Brookings](https://www.brookings.edu)
+* 课程学习类
+  - [Open Yale Courses](https://oyc.yale.edu)
+  - [Khan Academy](https://www.khanacademy.org)
+* 电子书资源类
+  - [Project Gutenberg](https://www.gutenberg.org)
+  - [Internet Archive](https://archive.org)
+* 素材工具类
+  - [Pixabay](https://pixabay.com)
+  - [Canva](https://www.canva.com)
 * [my links](./bookmarks.html)
 
 ## Studies of Chinese Ancient Civilization
