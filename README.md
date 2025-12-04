@@ -51,6 +51,7 @@
     <li>[tax return filing](https://www.freetaxusa.com/taxes2024/taxcontrol?sid=6&FREEFILE)</li>
   </ul>
 </details>
+
 ### Work(CDWA) and Insurance
 <details>
   <summary>expand</summary>
@@ -66,19 +67,33 @@
   </ul>
 </details>
 
-* 真相查询类
+### AI development tools:
+<details>
+  <summary>expand</summary>
+  <h3>Tools</h3>
+  <ul>
+    <li>[openai prompt optimizer](https://platform.openai.com/chat/edit?models=gpt-5&optimize=true)</li>
+  </ul>
+  <h3>References</h3>
+  <ul>
+    <li>[prompt packs](https://academy.openai.com/public/tags/prompt-packs-6849a0f98c613939acef841c)</li>
+    <li>[cook books with examples](https://cookbook.openai.com/examples/gpt4-1_prompting_guide)</li>
+  </ul>
+</details>
+
+### 真相查询类
   - [Snopes](https://www.snopes.com)
   - [Wikipedia en](https://en.wikipedia.org)
-* 全球时事类
+### 全球时事类
   - [Foreign Affairs](https://www.foreignaffairs.com)
   - [Brookings](https://www.brookings.edu)
-* 课程学习类
+### 课程学习类
   - [Open Yale Courses](https://oyc.yale.edu)
   - [Khan Academy](https://www.khanacademy.org)
-* 电子书资源类
+### 电子书资源类
   - [Project Gutenberg](https://www.gutenberg.org)
   - [Internet Archive](https://archive.org)
-* 素材工具类
+### 素材工具类
   - [Pixabay](https://pixabay.com)
   - [Canva](https://www.canva.com)
 * [my links](./bookmarks.html)
