@@ -12,26 +12,60 @@
 
 
 ## Tools & reference:
-* [Markdown manual](./mdCheat.md)
-* [创世纪图书馆](https://librarygenesis.net/)
-* [格式转换工具](https://convertio.co/)
-* [z library](https://z-library.sk/)
-* [安娜的档案](https://zh.annas-archive.org/)
-* [pdf drive](https://www.pdfdrive.com/)
-* [书阁-古书](https://www.shuge.org/)
-* [libary printing](https://kcls.org/print-from-your-own-device/):select correct pickup library(Highport Way?)
-* [find mygphone](https://www.google.com/android/find/)
-* [find myiphone](https://www.icloud.com/find/)
-* [59 LA management fee](https://propertypay.firstcitizens.com/registered/#/properties)
-* [59 LA 水，废水](https://www.clintontwpnj.gov/pages/public-water-and-sewer)
-* [59 LA 电](https://www.firstenergycorp.com/newsroom/featured_stories/tools-for-a-smooth-move.html#:~:text=We%20understand%20that%20starting%2C%20stopping,Learn%20more%20and%20get%20started.)
-* [59 LA 燃气](https://www.elizabethtowngas.com/business/business-service/start-stop-transfer-service#:~:text=Already%20Have%20a%20Natural%20Gas,Set%20Up%20for%20Natural%20Gas%3F)
-* [tax return filing](https://www.freetaxusa.com/taxes2024/taxcontrol?sid=6&FREEFILE)
-* [property tax](https://www.clintontwpnj.gov/department/tax-collector)
-* [cdwa timeentry](https://www.consumerdirectwa.com/)
-* [cdwa training](https://www.caregiverlearning.org/learn)
-* [cdwa health](https://www.mycreatehealth.com/employee/?a=dashboard)
-* [apple health](https://www.wahealthplanfinder.org/HBEWeb/DisplayDashboard)
+### Books and documentation tools:
+<details>
+  <summary>expand</summary>
+
+  <h3>library BOOKS</h3>
+  <ul>
+    <li>[创世纪图书馆](https://librarygenesis.net/)</li>
+    <li>[z library](https://z-library.sk/)</li>
+    <li>[安娜的档案](https://zh.annas-archive.org/)</li>
+    <li>[pdf drive](https://www.pdfdrive.com/)</li>
+    <li>[书阁-古书](https://www.shuge.org/)</li>
+  </ul>
+  <h3>documentation tools</h3>
+  <ul>
+    <li>[Markdown manual](./mdCheat.md)</li>
+    <li>[格式转换工具](https://convertio.co/)</li>
+  </ul>
+  
+</details>
+
+### My Life links
+<details>
+  <summary>expand</summary>
+  <h3>Services payment links</h3>
+  <ul>
+    <li>[59 LA management fee](https://propertypay.firstcitizens.com/registered/#/properties)</li>
+    <li>[59 LA 水，废水](https://www.clintontwpnj.gov/pages/public-water-and-sewer)</li>
+    <li>[59 LA 电](https://www.firstenergycorp.com/newsroom/featured_stories/tools-for-a-smooth-move.html#:~:text=We%20understand%20that%20starting%2C%20stopping,Learn%20more%20and%20get%20started.)</li>
+    <li>[59 LA 燃气](https://www.elizabethtowngas.com/business/business-service/start-stop-transfer-service#:~:text=Already%20Have%20a%20Natural%20Gas,Set%20Up%20for%20Natural%20Gas%3F)</li>
+    <li>[property tax](https://www.clintontwpnj.gov/department/tax-collector)</li>
+  </ul>
+  <h3>Others</h3>
+  <ul>
+    <li>[libary printing](https://kcls.org/print-from-your-own-device/):select correct pickup library(Highport Way?)</li>
+    <li>[find mygphone](https://www.google.com/android/find/)</li>
+    <li>[find myiphone](https://www.icloud.com/find/)</li>
+    <li>[tax return filing](https://www.freetaxusa.com/taxes2024/taxcontrol?sid=6&FREEFILE)</li>
+  </ul>
+</details>
+### Work(CDWA) and Insurance
+<details>
+  <summary>expand</summary>
+  <h3>CDWA</h3>
+  <ul>
+    <li>[cdwa timeentry](https://www.consumerdirectwa.com/)</li>
+    <li>[cdwa training](https://www.caregiverlearning.org/learn)</li>
+    <li>[cdwa health](https://www.mycreatehealth.com/employee/?a=dashboard)</li>
+  </ul>
+  <h3>Insurance</h3>
+  <ul>
+    <li>[apple health](https://www.wahealthplanfinder.org/HBEWeb/DisplayDashboard)</li>
+  </ul>
+</details>
+
 * 真相查询类
   - [Snopes](https://www.snopes.com)
   - [Wikipedia en](https://en.wikipedia.org)
