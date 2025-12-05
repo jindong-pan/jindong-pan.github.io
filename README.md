@@ -67,12 +67,13 @@
   </ul>
 </details>
 
-### AI development tools:
+### AI & vibe coding:
 <details>
   <summary>expand</summary>
   <h3>Tools</h3>
   <ul>
     <li>[openai prompt optimizer](https://platform.openai.com/chat/edit?models=gpt-5&optimize=true)</li>
+    <li>[VS code in linux](https://code.visualstudio.com/docs/setup/linux)</li>
   </ul>
   <h3>References</h3>
   <ul>
