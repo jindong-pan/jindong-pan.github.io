@@ -1,4 +1,4 @@
-# James 3:17-18. This wisdom is described as first being pure, then peace-loving, considerate, submissive, full of mercy and good fruit, impartial, and sincere. Peacemakers who sow in peace are said to reap a harvest of righteousness.
+# James 3:17-18. This wisdom is described as first being pure, then peace-loving, considerate, submissive, full of mercy and good fruit, impartial, and sincere. Peacemakers who sow in peace are said t[...]
 
 * [My church](https://eccseattle.org/zw/home-zw/)
 * [Daily bible study](https://bibleplan.github.io/)
@@ -18,16 +18,16 @@
 
   <h3>library BOOKS</h3>
   <ul>
-    <li>[创世纪图书馆](https://librarygenesis.net/)</li>
-    <li>[z library](https://z-library.sk/)</li>
-    <li>[安娜的档案](https://zh.annas-archive.org/)</li>
-    <li>[pdf drive](https://www.pdfdrive.com/)</li>
-    <li>[书阁-古书](https://www.shuge.org/)</li>
+    <li><a href="https://librarygenesis.net/">创世纪图书馆</a></li>
+    <li><a href="https://z-library.sk/">z library</a></li>
+    <li><a href="https://zh.annas-archive.org/">安娜的档案</a></li>
+    <li><a href="https://www.pdfdrive.com/">pdf drive</a></li>
+    <li><a href="https://www.shuge.org/">书阁-古书</a></li>
   </ul>
   <h3>documentation tools</h3>
   <ul>
-    <li>[Markdown manual](./mdCheat.md)</li>
-    <li>[格式转换工具](https://convertio.co/)</li>
+    <li><a href="./mdCheat.md">Markdown manual</a></li>
+    <li><a href="https://convertio.co/">格式转换工具</a></li>
   </ul>
   
 </details>
@@ -37,18 +37,18 @@
   <summary>expand</summary>
   <h3>Services payment links</h3>
   <ul>
-    <li>[59 LA management fee](https://propertypay.firstcitizens.com/registered/#/properties)</li>
-    <li>[59 LA 水，废水](https://www.clintontwpnj.gov/pages/public-water-and-sewer)</li>
-    <li>[59 LA 电](https://www.firstenergycorp.com/newsroom/featured_stories/tools-for-a-smooth-move.html#:~:text=We%20understand%20that%20starting%2C%20stopping,Learn%20more%20and%20get%20started.)</li>
-    <li>[59 LA 燃气](https://www.elizabethtowngas.com/business/business-service/start-stop-transfer-service#:~:text=Already%20Have%20a%20Natural%20Gas,Set%20Up%20for%20Natural%20Gas%3F)</li>
-    <li>[property tax](https://www.clintontwpnj.gov/department/tax-collector)</li>
+    <li><a href="https://propertypay.firstcitizens.com/registered/#/properties">59 LA management fee</a></li>
+    <li><a href="https://www.clintontwpnj.gov/pages/public-water-and-sewer">59 LA 水，废水</a></li>
+    <li><a href="https://www.firstenergycorp.com/newsroom/featured_stories/tools-for-a-smooth-move.html#:~:text=We%20understand%20that%20starting%2C%20stopping,Learn%20more%20and%20get%20started.">59 LA 电</a></li>
+    <li><a href="https://www.elizabethtowngas.com/business/business-service/start-stop-transfer-service#:~:text=Already%20Have%20a%20Natural%20Gas,Set%20Up%20for%20Natural%20Gas%3F">59 LA 燃气</a></li>
+    <li><a href="https://www.clintontwpnj.gov/department/tax-collector">property tax</a></li>
   </ul>
   <h3>Others</h3>
   <ul>
-    <li>[libary printing](https://kcls.org/print-from-your-own-device/):select correct pickup library(Highport Way?)</li>
-    <li>[find mygphone](https://www.google.com/android/find/)</li>
-    <li>[find myiphone](https://www.icloud.com/find/)</li>
-    <li>[tax return filing](https://www.freetaxusa.com/taxes2024/taxcontrol?sid=6&FREEFILE)</li>
+    <li><a href="https://kcls.org/print-from-your-own-device/">libary printing</a>: select correct pickup library (Highport Way?)</li>
+    <li><a href="https://www.google.com/android/find/">find mygphone</a></li>
+    <li><a href="https://www.icloud.com/find/">find myiphone</a></li>
+    <li><a href="https://www.freetaxusa.com/taxes2024/taxcontrol?sid=6&FREEFILE">tax return filing</a></li>
   </ul>
 </details>
 
@@ -57,13 +57,13 @@
   <summary>expand</summary>
   <h3>CDWA</h3>
   <ul>
-    <li>[cdwa timeentry](https://www.consumerdirectwa.com/)</li>
-    <li>[cdwa training](https://www.caregiverlearning.org/learn)</li>
-    <li>[cdwa health](https://www.mycreatehealth.com/employee/?a=dashboard)</li>
+    <li><a href="https://www.consumerdirectwa.com/">cdwa timeentry</a></li>
+    <li><a href="https://www.caregiverlearning.org/learn">cdwa training</a></li>
+    <li><a href="https://www.mycreatehealth.com/employee/?a=dashboard">cdwa health</a></li>
   </ul>
   <h3>Insurance</h3>
   <ul>
-    <li>[apple health](https://www.wahealthplanfinder.org/HBEWeb/DisplayDashboard)</li>
+    <li><a href="https://www.wahealthplanfinder.org/HBEWeb/DisplayDashboard">apple health</a></li>
   </ul>
 </details>
 
@@ -72,31 +72,31 @@
   <summary>expand</summary>
   <h3>Tools</h3>
   <ul>
-    <li>[openai prompt optimizer](https://platform.openai.com/chat/edit?models=gpt-5&optimize=true)</li>
-    <li>[VS code in linux](https://code.visualstudio.com/docs/setup/linux)</li>
+    <li><a href="https://platform.openai.com/chat/edit?models=gpt-5&optimize=true">openai prompt optimizer</a></li>
+    <li><a href="https://code.visualstudio.com/docs/setup/linux">VS code in linux</a></li>
   </ul>
   <h3>References</h3>
   <ul>
-    <li>[prompt packs](https://academy.openai.com/public/tags/prompt-packs-6849a0f98c613939acef841c)</li>
-    <li>[cook books with examples](https://cookbook.openai.com/examples/gpt4-1_prompting_guide)</li>
+    <li><a href="https://academy.openai.com/public/tags/prompt-packs-6849a0f98c613939acef841c">prompt packs</a></li>
+    <li><a href="https://cookbook.openai.com/examples/gpt4-1_prompting_guide">cook books with examples</a></li>
   </ul>
 </details>
 
 ### 真相查询类
-  - [Snopes](https://www.snopes.com)
-  - [Wikipedia en](https://en.wikipedia.org)
+  - <a href="https://www.snopes.com">Snopes</a>
+  - <a href="https://en.wikipedia.org">Wikipedia en</a>
 ### 全球时事类
-  - [Foreign Affairs](https://www.foreignaffairs.com)
-  - [Brookings](https://www.brookings.edu)
+  - <a href="https://www.foreignaffairs.com">Foreign Affairs</a>
+  - <a href="https://www.brookings.edu">Brookings</a>
 ### 课程学习类
-  - [Open Yale Courses](https://oyc.yale.edu)
-  - [Khan Academy](https://www.khanacademy.org)
+  - <a href="https://oyc.yale.edu">Open Yale Courses</a>
+  - <a href="https://www.khanacademy.org">Khan Academy</a>
 ### 电子书资源类
-  - [Project Gutenberg](https://www.gutenberg.org)
-  - [Internet Archive](https://archive.org)
+  - <a href="https://www.gutenberg.org">Project Gutenberg</a>
+  - <a href="https://archive.org">Internet Archive</a>
 ### 素材工具类
-  - [Pixabay](https://pixabay.com)
-  - [Canva](https://www.canva.com)
+  - <a href="https://pixabay.com">Pixabay</a>
+  - <a href="https://www.canva.com">Canva</a>
 * [my links](./bookmarks.html)
 
 ## Studies of Chinese Ancient Civilization
