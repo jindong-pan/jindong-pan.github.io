@@ -2,6 +2,7 @@
 
 * [My church](https://eccseattle.org/zw/home-zw/)
 * [Daily bible study](https://bibleplan.github.io/)
+* [zoom meeting 6:30AM 7:30AM 9:30AM 8:30PM/8:30AM56](https://zoom.us/wc/82249576073/join?pwd=024098)
 * [mp3 bible](https://www.wordproject.org/bibles/gb/index.htm)
 
 ## WA maps
