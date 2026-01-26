@@ -83,7 +83,7 @@
     <li><a href="https://academy.openai.com/public/tags/prompt-packs-6849a0f98c613939acef841c">prompt packs</a></li>
     <li><a href="https://cookbook.openai.com/examples/gpt4-1_prompting_guide">cook books with examples</a></li>
     <li><a href="https://www.duckdns.org/domains">free domains</a></li>
-    <li><a href="[<li><a href="https://www.google.com/inputtools/try/">input cn</a></li>
+    <li><a href="https://www.google.com/inputtools/try/">input cn</a></li>
   </ul>
 </details>
 
