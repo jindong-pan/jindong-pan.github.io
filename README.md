@@ -77,6 +77,7 @@
     <li><a href="https://platform.openai.com/chat/edit?models=gpt-5&optimize=true">openai prompt optimizer</a></li>
     <li><a href="https://code.visualstudio.com/docs/setup/linux">VS code in linux</a></li>
     <li><a href="https://aistudio.google.com/usage?timeRange=last-28-days">gemini tokens usage</a></li>
+    <li><a href="https://openrouter.ai/activity">openrouter</a></li>
   </ul>
   <h3>References</h3>
   <ul>
