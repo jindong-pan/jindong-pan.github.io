@@ -1,7 +1,8 @@
 # James 3:17-18. This wisdom is described as first being pure, then peace-loving, considerate, submissive, full of mercy and good fruit, impartial, and sincere. Peacemakers who sow in peace are said t[...]
 
 * [My church](https://eccseattle.org/zw/home-zw/)
-* [Daily bible study](https://bibleplan.github.io/)
+* [My church](https://eccseattle.org/zw/home-zw/)
+* [Prayer practice book](ZmlsZT1odHRwczovL2RhdmlkcGF3c29uLnN0b3JhZ2Uuc2FyZGl1cy5tZWRpYS9maWxlL2RhdmlkcGF3c29uL1Bhd3Nvbi9Eb2NzL3BwcHJheWVyX2ludC5wZGYmc2V0dGluZ3M9MDAxMTAxMTExMTExMTExMTEwMCZsYW5nPWVuLVVT)
 * [zoom meeting 6:30AM 7:30AM 9:30AM 8:30PM/8:30AM56](https://zoom.us/wc/82249576073/join?pwd=024098)
 * [mp3 bible](https://www.wordproject.org/bibles/gb/index.htm)
 
