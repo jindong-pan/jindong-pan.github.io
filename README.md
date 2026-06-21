@@ -3,6 +3,7 @@
 * [My church](https://eccseattle.org/zw/home-zw/)
 * [Prayer practice book](ZmlsZT1odHRwczovL2RhdmlkcGF3c29uLnN0b3JhZ2Uuc2FyZGl1cy5tZWRpYS9maWxlL2RhdmlkcGF3c29uL1Bhd3Nvbi9Eb2NzL3BwcHJheWVyX2ludC5wZGYmc2V0dGluZ3M9MDAxMTAxMTExMTExMTExMTEwMCZsYW5nPWVuLVVT)
 * [zoom meeting 6:30AM 7:30AM 9:30AM 8:30PM/8:30AM56](https://zoom.us/wc/82249576073/join?pwd=024098)
+* [bible plan](https://bibleplan.github.io/)
 * [mp3 bible](https://www.wordproject.org/bibles/gb/index.htm)
 
 ## WA maps
